@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Magnitude Converter</string>
+
+    <string-array name="select_type">
+        <item>Number</item>
+        <item>Word</item>
+    </string-array>
+
+</resources>
